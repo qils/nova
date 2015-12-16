@@ -19,7 +19,7 @@ APIRequest class
 """
 
 import datetime
-# TODO(termie): replace minidom with etree   #fds3y2efds3i
+# TODO(termie): replace minidom with etree   
 from xml.dom import minidom
 
 from lxml import etree
